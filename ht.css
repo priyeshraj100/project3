@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(49, 41, 30, 0.838);
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 4em;
+  }
+  
+  #born-death {
+    text-align: center;
+    font-size: 2em;
+  }
+  
+  figcaption {
+    font-size: 1.1em;
+    text-align: center;
+  }
+  
+  #image {
+    max-width: 1000px;
+    max-height: 563px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  p {
+    font-size: 1.5em;
+  }
+  
+  #intro {
+    margin-bottom: 1em;
+    margin-top: 1em;
+  }
+  
+  li {
+    font-size: 1.2em;
+  }
+  
+ 
